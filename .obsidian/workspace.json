@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "a7afb97e911eab16",
+    "type": "split",
+    "children": [
+      {
+        "id": "7755882c12d7fc04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16bc7397583f2324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPCA/RSL Projeto de Mestrado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c8df9e80e0df258",
+    "type": "split",
+    "children": [
+      {
+        "id": "0981aa034814a178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8e2636a066ddb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05cb9ad0778b8be8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2329be7d87ff4797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd3de15e46f71d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb187d5ea4b9138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9efdac381b718eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PPCA/RSL Projeto de Mestrado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4403dbd8c57d09d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PPCA/RSL Projeto de Mestrado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0202f2df4ad7ae59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e24a34e7b9043946",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PPCA/RSL Projeto de Mestrado.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "16bc7397583f2324",
+  "lastOpenFiles": [
+    "PPCA/01-03-2024 - Call de alinhamento.md",
+    "PPCA/RSL Projeto de Mestrado.md"
+  ]
+}
